@@ -6,8 +6,8 @@ import CTA from "../components/CTA";
 import Comparison from "../components/Comparison";
 import SingleReview from "../components/SingleReview";
 
-const title = "Body Fat Estimator – What % Body Fat Are You?";
-const description = "Discover your body fat percentage with our Body Fat Estimator. Get quick, accurate results to track your fitness progress and optimize your health goals.";
+const title = "Nerdneck Check – Are Your a Nerd?";
+const description = "";
 
 export const metadata: Metadata = {
   title: title,
