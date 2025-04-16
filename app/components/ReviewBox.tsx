@@ -40,7 +40,7 @@ export default function ReviewBox() {
             <input type="radio" name="rating-4" className="mask mask-star-2 bg-yellow-400" />
           </div>
           <p className="text-sm">
-            <span className="font-bold">11,921</span> athletes know their number
+            <span className="font-bold">1,921</span> necks analyzed
           </p>
         </div>
       </div>
