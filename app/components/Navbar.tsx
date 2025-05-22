@@ -29,11 +29,7 @@ export default function Navbar() {
             tabIndex={0}
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
           >
-            <li>
-              <a href="/">
-              Estimate Neck Angle
-              </a>
-            </li>
+            
           </ul>
         </div>
 
@@ -47,16 +43,12 @@ export default function Navbar() {
             alt="Roast Generator Logo"
             className="w-6 h-6"
           />
-          Nerdneck Check
+          Jawline Check
         </a>
 
         {/* Desktop Menu with Spacing */}
         <ul className="menu menu-horizontal gap-4 text-lg px-1 hidden lg:flex ml-12">
-            <li>
-              <a href="/">
-              Estimate Neck Angle
-              </a>
-            </li>
+            
           </ul>
       </div>
 

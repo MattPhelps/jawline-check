@@ -6,14 +6,14 @@ export default function Hero() {
       <div className="hero-content text-center">
         <div className="max-w-2xl">
           <h1 className="text-4xl lg:text-5xl font-bold">
-            Do You Have Nerd Neck?
+            Measure Your Jawline Angle
           </h1>
           <p className="py-6 text-lg mt-6">
-            Upload a side profile photo and instantly find out your craniovertebral angle — the key metric for forward head posture. Quick, accurate, and judgment-free.
+            Upload a side profile photo and instantly find out your gonial angle. Quick, accurate, and judgment-free.
           </p>
           <a href="/upload">
             <button className="btn btn-primary btn-lg text-white mt-6">
-              Check My Neck <span className="text-lg">→</span>
+              Check My Jawline <span className="text-lg">→</span>
             </button>
           </a>
           <ReviewBox />

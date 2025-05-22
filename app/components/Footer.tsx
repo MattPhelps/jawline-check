@@ -4,7 +4,7 @@ export default function Footer() {
             <aside>
             {/* <img src="/favicon.ico" alt="Roast Generator Logo" className="w-12 h-12 " /> */}
                 <p className="text-base text-white">
-                    <b className="font-heading">Nerdneck Check</b>
+                    <b className="font-heading">Jawline Check</b>
                     <br />
                     Copyright 2025 - all rights reserved.
                 </p>
@@ -14,6 +14,7 @@ export default function Footer() {
                 <h4 className="footer-title font-heading text-lg text-white">Tools</h4>
                 <p><a className="link link-hover text-white" href="https://fatforecast.com/">Fat Forecast</a></p>
                 <p><a className="link link-hover text-white" href="https://bodyfatestimator.ai/">Bodyfat Estimator</a></p>
+                <p><a className="link link-hover text-white" href="https://nerdneckcheck.com/">Nerdneck Check</a></p>
             </nav>
         </footer>
     );
